@@ -1,0 +1,51 @@
+ITEM_ID,ITEM_NAME,MANUFACTURER,PRODUCT_CODE,DEPARTMENT,UNITS_ON_HAND,UNIT_COST
+INV-001,Colleague Single Channel Infusion Pump,Baxter Healthcare Corp. Rt.,FRN,ICU,12,4500.00
+INV-002,CADD-Solis Ambulatory Infusion Pump,"Smiths Medical ASD, Inc.",FRN,Oncology,8,3200.00
+INV-003,Penumbra Neuron Delivery Catheter 070,Penumbra Inc.,DQY,Neurology,150,275.00
+INV-004,HeartStart MRx Defibrillator,Philips Healthcare Inc.,DSB,Emergency,6,18500.00
+INV-005,MiniMed 780G Insulin Pump,"Medtronic MiniMed, Inc.",LZG,Endocrinology,20,7800.00
+INV-006,Cochlear Nucleus CI512 Implant,Cochlear Americas Inc.,MCW,ENT,5,32000.00
+INV-007,BladderScan BVM 9500,"Verathon, Inc.",KPT,Urology,4,9200.00
+INV-008,TrueBeam Radiotherapy System,Varian Medical Systems,IYE,Radiation Oncology,2,2850000.00
+INV-009,Aquasorb Hydrogel Wound Dressing,DeRoyal Wound Care,MGQ,Wound Care,500,12.50
+INV-010,INTRABEAM PRS 500 Radiation System,Carl Zeiss Meditec AG Rudolf-Eber-Str. 11 Oberkochen Germany,IYE,Radiation Oncology,1,450000.00
+INV-011,Nellcor PM1000N SpO2 Monitor,Nellcor Puritan Bennett Llc,DQA,ICU,15,3800.00
+INV-012,Endo GIA Articulating Loading Unit 30mm,,GEI,Surgery,200,185.00
+INV-013,One Touch Ultra Test Strips,Lifescan Inc,NBW,Laboratory,2000,0.45
+INV-014,LIFEPAK CR Plus AED,"Medtronic Emergency Response Systems, Inc.",DSB,Emergency,10,1450.00
+INV-015,D-Stat Dry Hemostatic Bandage,"B. Braun Medical, Inc.",MGQ,Surgery,300,8.75
+INV-016,Fortify Assura DR Defibrillator,St Jude Medical Inc.,LWP,Cardiology,4,35000.00
+INV-017,CARTO 3 EP Navigation System,"Biosense Webster, Inc.",DXY,Cardiology,2,285000.00
+INV-018,King LTS-D Oropharyngeal Airway,King Systems Corp.,EOA,Anesthesia,75,42.00
+INV-019,Expression MR200 MRI Monitor,Invivo Corporation,DQA,Radiology,3,12500.00
+INV-020,Revolution XR/d Digital Radiography,"GE Medical Systems, LLC",JAA,Radiology,2,195000.00
+INV-021,Arrow Arrowg+ard PICC Kit,ARROW INTERNATIONAL Inc.,FRN,ICU,100,145.00
+INV-022,Neo-Tee T-Piece Resuscitator,"Mercury Enterprises, Inc. dba Mercury Medical",BZH,NICU,30,85.00
+INV-023,Allura Xper FD10 Fluoroscopy,PHILIPS MEDICAL SYSTEMS NEDERLAND B.V. Veenpluis 4-6 Best Netherlands,JAA,Interventional Radiology,1,520000.00
+INV-024,JOURNEY BCS Knee Femoral Component,"Smith & Nephew, Inc.",HWB,Orthopedics,10,4200.00
+INV-025,Histolock Resection Device,US Endoscopy Group Inc,GEI,Gastroenterology,25,320.00
+INV-026,CDI H/S Cuvette,Terumo Cardiovascular Systems Corporation,DYB,Cardiac Surgery,200,55.00
+INV-027,Cure Medical Intermittent Catheter M16,Cure Medical LLC,ELD,Urology,400,6.50
+INV-028,IMMAGE RF Reagent Kit,Beckman Coulter Inc.,JJE,Laboratory,15,890.00
+INV-029,COULTER PrepPlus System,Beckman Coulter Inc.,GGB,Laboratory,2,45000.00
+INV-030,Skintact Defibrillation Electrodes DF29N,Leonhard Lang Medizintechnik GmbH Archenweg 56 Innsbruck Austria,DSB,Emergency,500,18.00
+INV-031,GoSafe Mobile Help Button,"Lifeline Systems, Incorporated",QCC,Geriatrics,50,125.00
+INV-032,Vanguard 360 Revision Knee System,"Zimmer Biomet, Inc.",HWB,Orthopedics,6,8500.00
+INV-033,SOUNDSTAR Diagnostic Ultrasound Catheter,"Biosense Webster, Inc.",DXY,Cardiology,20,1850.00
+INV-034,Stryker eNlite Navigation System,Stryker Instruments Div. of Stryker Corporation,JAA,Neurosurgery,2,175000.00
+INV-035,OEC 9900 Elite Fluoroscope,Ge Healthcare,JAA,Surgery,3,225000.00
+INV-036,Sedecal SP-HF 4.0 Portable X-Ray,"Sedecal USA, Inc",IZL,Emergency,2,28000.00
+INV-037,AortaScan AMI 9700,"Verathon, Inc.",KPT,Vascular Surgery,2,11500.00
+INV-038,Alinity m SARS-CoV-2 Amp Kit,"Abbott Molecular, Inc.",QKO,Laboratory,100,65.00
+INV-039,Ivenix Infusion System,"Fresenius Kabi USA, LLC",FRN,ICU,10,5200.00
+INV-040,ADROIT 6F Guiding Catheter,Cordis Corporation,DQY,Cardiology,80,195.00
+INV-041,BreathTek UBT Kit,"Meretek Diagnostics, Inc.",MDS,Gastroenterology,50,78.00
+INV-042,Medtronic Tactile Probe Left,"Medtronic Navigation, Inc",HCC,Neurosurgery,8,2200.00
+INV-043,MIRS for MATRIX Spine System,"Synthes USA HQ, Inc.",HRS,Orthopedics,12,3400.00
+INV-044,Ultima OPCAB System,"Maquet Cardiovascular, LLC",DYB,Cardiac Surgery,3,42000.00
+INV-045,MiniMed 630G Insulin Pump,"Medtronic MiniMed, Inc.",LZG,Endocrinology,15,6500.00
+INV-046,Waterproof Adhesive Pads Antibacterial,"ASO, LLC",MGQ,Wound Care,1000,2.25
+INV-047,SECURE EVA Dual Chamber Container,The Metrix Company,FPA,Pharmacy,250,28.00
+INV-048,Bone Marrow Aspiration Needle TIN3015,Bard Peripheral Vascular Inc,KGO,Hematology,60,95.00
+INV-049,RAPTAR Laser Range Finder,"Potomac River Group, Corp.",HQF,Ophthalmology,3,15000.00
+INV-050,COVID-19 Ag Rapid Test Device,"Jiangsu Well Biotech Co., Ltd. No",QKO,Laboratory,500,8.50
